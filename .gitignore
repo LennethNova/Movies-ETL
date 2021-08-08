@@ -7,8 +7,9 @@ __pycache__/
 testing.ipynb
 
 #file
-ratings.csv
-movies_metadata.csv
+# ratings.csv
+# movies_metadata.csv
+wiki_movies_df_.csv
 
 # C extensions
 *.so
