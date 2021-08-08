@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# tests
+testing.ipynb
+
+#file
+ratings.csv
+movies_metadata.csv
+
 # C extensions
 *.so
 
